@@ -17,7 +17,7 @@ A fan-made, personal-use Yu-Gi-Oh! game for Windows and Android, built on the op
 
 ## Planned
 - The full English Starter and Structure Deck lineup (81 decks), shown as retail boxes on the Toon Corner walls.
-- Fully functional story mode with unique story for 49 characters, including 2 special story modes with final boss and secret boss. the remaining 151 will have a generic story that depends on their personality.
+- Fully functional story mode with unique story for 49 characters, including 2 special story modes with final boss and secret boss. the remaining 201 will have a generic story that depends on their personality.
 - Overworld map with 9 pockets, and 4-6 zones per pocket. you will walk around like Tag Force 3 and challenge to single or tag duel. Go to class and participate in minigame, or go to underground duels for extra DP.
 - Active card lists always being maintained for English releases
 - Effect activation banners that explain why a card activated.
