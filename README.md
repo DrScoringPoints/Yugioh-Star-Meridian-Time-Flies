@@ -4,7 +4,7 @@ A fan-made, personal-use Yu-Gi-Oh! game for Windows and Android, built on the op
 
 ## Current features
 - **Story Mode**: student life at Meridian University. Pick a Tag Force-style partner from any era, explore a 3D overworld, take on duelists from every era, and work toward graduation.
-- **Free Duel**: duel any of 250 era-accurate duelists with your own deck, a borrowed deck or a rental deck. Tag up with any partner from any era, including 68 Original Characters.
+- **Free Duel**: duel any of 250 era-accurate duelists with your own deck, a borrowed deck or a rental deck. Tag up with any partner from any era, including over 50 Original Characters.
 - **Tournaments**: build a custom bracket with Singles (up to 32), Tag (up to 64) and CPU vs CPU. Watch or skip each match.
 - **Star Circuit**: preset tournament cups to climb. The Field Cups ladder is coming (see Star Circuit under Planned).
 - **Toon Corner Card Shop**: real booster sets priced by age, daily singles, the Creator's Private Collection (15,000 DP) and buy-once Starter and Structure Decks.
