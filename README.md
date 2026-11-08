@@ -4,8 +4,6 @@ A fan-made, personal-use Yu-Gi-Oh! game for Windows and Android, built on the op
 
 ## Current features
 - **Story Mode**: student life at Meridian University. Pick a Tag Force-style partner from any era, explore a 3D overworld, take on duelists from every era, and work toward graduation.
-- **Degree**: Pick your degree in story mode, and earn perks in the story, your partners perk will also count.
-- **Partner Loyalty:**: Keep your partner happy by winning duels, and passing class, or they may find someone else to tag with!
 - **Free Duel**: duel any of 250 era-accurate duelists with your own deck, a borrowed deck or a rental deck. Tag up with any partner from any era, including 68 Original Characters.
 - **Tournaments**: build a custom bracket with Singles (up to 32), Tag (up to 64) and CPU vs CPU. Watch or skip each match.
 - **Star Circuit**: preset tournament cups to climb. The Field Cups ladder is coming (see Star Circuit under Planned).
@@ -13,12 +11,14 @@ A fan-made, personal-use Yu-Gi-Oh! game for Windows and Android, built on the op
 - **Trunk and Deck Editor**: collect cards, build 40-card decks and use duelist deck recipes. Follows the current TCG rules, with an optional Forbidden & Limited list.
 - **Minigames**: DP-earning minigames such as Blackjack, darts, Card Toss Range, Attribute Sort, and Spirit Shell
 - **Duel features**: a pause that truly freezes the duel, Restart Duel, and controller, keyboard, mouse and touch (Android) support.
-- **Updates**: an in-game update check, plus a custom installer and updater.
 
 ## Planned
+- Building an in-game update check, plus a custom installer and updater.
 - The full English Starter and Structure Deck lineup (81 decks), shown as retail boxes on the Toon Corner walls.
 - Fully functional story mode with unique story for 49 characters, including 2 special story modes with final boss and secret boss. the remaining 201 will have a generic story that depends on their personality.
 - Overworld map with 9 pockets, and 4-6 zones per pocket. you will walk around like Tag Force 3 and challenge to single or tag duel. Go to class and participate in minigame, or go to underground duels for extra DP.
+- Pick your degree in story mode, and earn perks in the story, your partners perk will also count.
+- Keep your partner happy by winning duels, and passing class, or they may find someone else to tag with!
 - Active card lists always being maintained for English releases
 - Effect activation banners that explain why a card activated.
 - Smarter AI (better trap timing, removal targets and lock awareness).
